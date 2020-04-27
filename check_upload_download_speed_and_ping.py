@@ -34,6 +34,6 @@ elif check_option ==3:
     ip_check = input("enter a ip addres: ")
     os.system('ping -n 4 {}'.format(ip_check))
 else:
-    print("you enter a worng choise!!")
+    print("you use a worng key word!")
     
                    
