@@ -7,7 +7,7 @@ check_option = int(input('''what speed you want to test:
                    press (1) for Donwload speed
                    press (2) upload speed
                    press (3) for check piing
-                   Enter your choice !'''))
+         Enter your choice : '''))
 byte = 1000000
 bit = 8000000
 
